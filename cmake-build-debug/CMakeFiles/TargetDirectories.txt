@@ -1,0 +1,3 @@
+/home/hussein/CLionProjects/oldSimpleShell/cmake-build-debug/CMakeFiles/oldSimpleShell.dir
+/home/hussein/CLionProjects/oldSimpleShell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hussein/CLionProjects/oldSimpleShell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
